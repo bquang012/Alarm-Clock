@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfTime_List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Time_List>
+    <gio>15</gio>
+    <phut>16</phut>
+    <dayOfWeek>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </dayOfWeek>
+    <Active>true</Active>
+    <Id>8</Id>
+  </Time_List>
+</ArrayOfTime_List>

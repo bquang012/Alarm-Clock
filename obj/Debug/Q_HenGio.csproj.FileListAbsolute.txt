@@ -1,0 +1,13 @@
+E:\C#_New\Q_HenGio\Q_HenGio\bin\Debug\Q_HenGio.exe.config
+E:\C#_New\Q_HenGio\Q_HenGio\bin\Debug\Q_HenGio.exe
+E:\C#_New\Q_HenGio\Q_HenGio\bin\Debug\Q_HenGio.pdb
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.Properties.Resources.resources
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.csproj.GenerateResource.Cache
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.exe
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.pdb
+E:\C#_New\Q_HenGio\Q_HenGio\bin\Debug\Guna.UI2.dll
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.frmClocker.resources
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.Clock.resources
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.frmAddTime.resources
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.BaoThuc.resources
+E:\C#_New\Q_HenGio\Q_HenGio\obj\Debug\Q_HenGio.csprojResolveAssemblyReference.cache
